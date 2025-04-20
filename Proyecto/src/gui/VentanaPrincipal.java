@@ -52,7 +52,7 @@ public class VentanaPrincipal extends JFrame {
 			contentPane.add(btnAgregarP);
 		}
 		{
-			btnBoleta = new JButton("Boleta");
+			btnBoleta = new JButton("Generar Boleta");
 			btnBoleta.setBounds(53, 83, 172, 23);
 			contentPane.add(btnBoleta);
 		}
